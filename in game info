@@ -9,7 +9,7 @@
       "iconurl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/9/99/Chibi-Otter.png/revision/latest?cb=20210212143222",
       "disableicontext": false,
       "iconposition": 0,
-      "icontextcolor": 0,
+      "icontextcolor": 1,
       "openonstart": true,
       "openonstartonlynewplayers": true,
       "updateinterval": 12
